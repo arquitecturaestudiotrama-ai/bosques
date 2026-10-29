@@ -1,0 +1,4 @@
+/* Tipografía DFS (Open Sans, subconjunto) */
+@font-face{font-family:"DFS";font-weight:300;font-style:normal;font-display:swap;src:url("../fonts/dfs-300.woff2") format("woff2")}
+@font-face{font-family:"DFS";font-weight:400;font-style:normal;font-display:swap;src:url("../fonts/dfs-400.woff2") format("woff2")}
+@font-face{font-family:"DFS";font-weight:600;font-style:normal;font-display:swap;src:url("../fonts/dfs-600.woff2") format("woff2")}
